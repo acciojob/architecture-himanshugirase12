@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+body{
+	background-color:lightseagreen;
+}
+.imagecontainer{
+	width:200px;
+}
+
+.c1{
+	widht:200px;
+}
+
+.c1 img{
+	width:190px;
+}
+
+.c2{
+	width:600px;
+	
+}
+
+
+
+.c3{
+	width:200px;
+}
+.c3 img{
+	width:190px;
+}
+
+.alphabet-list{
+	list-style-type: none;
+}
+
+.c2{
+	text-align:center;
+}
+
